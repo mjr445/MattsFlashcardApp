@@ -1,5 +1,30 @@
 ## MattsFlashcardApp
-CodePath Lab 1
+## Lab 2
+
+### App Description
+This is the second stage of the flashcard app. It now allows the user to create a new flashcard by inputting a new question and answer/
+
+### App Walk-though
+`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+
+<img src=http://g.recordit.co/6iyTITA8FI.gif width=200><br>
+
+## Required
+- [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
+- [X] The 'Add Card Screen' has a cancel button to take the user back to the main screen
+- [X] User can enter and submit a Question and Answer through the 'Add Card Screen'
+- [X] User will see the card they just created on the main screen when they press the 'Save Button'
+- [X] Push your progress to GitHub!
+
+## Optional
+- [ ] User can edit a card
+- [ ] An error message is shown if the user doesn't enter both a Question and an Answer
+- [ ] A notification is shown if the card was created successfully
+- [ ] User can also enter multiple choice answers when creating a card
+- [ ] App is further styled and customized!
+
+
+## Lab 1
 
 ### App Description
 This is a simple flashcard app that asks a question, then flips to reveal an answer when the user taps the question being asked.
