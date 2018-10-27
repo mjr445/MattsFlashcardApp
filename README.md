@@ -5,7 +5,6 @@
 This is the second stage of the flashcard app. It now allows the user to create a new flashcard by inputting a new question and answer/
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src=http://g.recordit.co/6iyTITA8FI.gif width=200><br>
 
